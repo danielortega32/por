@@ -7,7 +7,7 @@ export const Main = () => {
       {/* Sección izquierda: Imagen */}
       <div class="w-full md:w-1/3 mb-4 md:mb-0">
         <img 
-          src="./public/dani.png" 
+          src="/src/assets/dani.png" 
           alt="Profile"
           class="rounded-lg shadow-lg ml-12 md:ml-[50px]" 
           width="180px"          
